@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "许冰言（ice）, href: " " },
+    { title: "许冰言（ice）", href: "" },
     { title: "Ebn Zhang", href: "" },
     { title: "Kun Qian", href: "" },
     { title: "Sherry Woo", href: "" },
     { title: "SmdCn", href: "" },
     { title: "JiyinYiyong", href: "" },
     { title: "DHong Say", href: "" },
-    { title: "真情浮华", href: "" },
+    { title: "真情浮华", href: "" }
   ]
