@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Road
+weibo_username: https://weibo.com
 zhihu_username: Road
-github_username: Road
+github_username: https://github.com
 twitter_username: Road
 #facebook_username:  Road
 #linkedin_username:  firstname-lastname-idxxxx
