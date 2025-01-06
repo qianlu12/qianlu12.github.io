@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 陈泽
-dubao_username: road 
+weibo_username: road
+zhihu_username: road 
 github_username: qianlu12 
 twitter_username: road 
 #facebook_username:  Road
