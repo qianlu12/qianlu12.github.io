@@ -2,9 +2,9 @@
 title: 宜予
 SEOTitle: 宜予的博客 | Road 
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: Road@gmail.com
 description: "这里是 @Road宜予 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "宜予, Raod宜予, Road, 鬼栈, huxpro, @Road, Road的博客, Raod Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "宜予, Raod宜予, Road, 鬼栈, Road, @Road, Road的博客, Raod Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://qianlu12.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: Road
+zhihu_username: Road
+github_username: Road
+twitter_username: Road
+#facebook_username:  Road
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "许冰言（ice）", " },
+    { title: "Ebn Zhang", href: "" },
+    { title: "Kun Qian", href: "" },
+    { title: "Sherry Woo", href: "" },
+    { title: "SmdCn", href: "" },
+    { title: "JiyinYiyong", href: "" },
+    { title: "DHong Say", href: "" },
+    { title: "真情浮华", href: "" },
   ]
