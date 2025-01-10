@@ -5,8 +5,8 @@ author:       "Road"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - 随笔
+    
 ---
 
 > 在人生的广袤旅程中，我们皆是不断探索的行者，我亦如此。回首过往，诸多经历如璀璨星辰，点缀着我的生命轨迹。
