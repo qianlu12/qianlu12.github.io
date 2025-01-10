@@ -1,5 +1,5 @@
 # Site settings
-title: 宜予
+title: Road
 SEOTitle: 宜予的博客 | Road 
 header-img: img/home-bg.jpg
 email: Road@gmail.com
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Road
 
 # Netease settings
 netease_comment: false
