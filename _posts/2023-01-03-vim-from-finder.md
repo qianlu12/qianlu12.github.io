@@ -12,7 +12,7 @@ tags:
 
 简介
 -------
-[刘禹锡](https://baike.baidu.com/item/%E5%88%98%E7%A6%B9%E9%94%A1/296467)（772年~842年），字梦得，籍贯河南洛阳，生于河南郑州[荥阳](https://baike.baidu.com/item/%E8%8D%A5/6565036)，自述“家本荥上，籍占洛阳”，自称是汉中山靖王后裔。唐朝时期大臣、文学家、哲学家，有“诗豪”之称。他的家庭是一个世代以儒学相传的书香门第。政治上主张革新，是王叔文派政治革新活动的中心人物之一。后来永贞革新失败被贬为朗州司马（今湖南常德）。据湖南常德历史学家、收藏家周新国先生考证刘禹锡被贬为朗州司马其间写了著名的“[汉寿城春望](https://www.gushiwen.cn/shiwenv.aspx?id=2049d761c7cf)”[801篇诗文](https://www.gushiwen.cn/shiwens/default.aspx?astr=%e5%88%98%e7%a6%b9%e9%94%a1)[592句名言](https://www.gushiwen.cn/mingjus/default.aspx?astr=%e5%88%98%e7%a6%b9%e9%94%a1)
+[刘禹锡](https://baike.baidu.com/item/%E5%88%98%E7%A6%B9%E9%94%A1/296467)（772年~842年），字梦得，籍贯河南洛阳，生于河南郑州[荥](https://baike.baidu.com/item/%E8%8D%A5/6565036)阳，自述“家本荥上，籍占洛阳”，自称是汉中山靖王后裔。唐朝时期大臣、文学家、哲学家，有“诗豪”之称。他的家庭是一个世代以儒学相传的书香门第。政治上主张革新，是王叔文派政治革新活动的中心人物之一。后来永贞革新失败被贬为朗州司马（今湖南常德）。据湖南常德历史学家、收藏家周新国先生考证刘禹锡被贬为朗州司马其间写了著名的“[汉寿城春望](https://www.gushiwen.cn/shiwenv.aspx?id=2049d761c7cf)”[801篇诗文](https://www.gushiwen.cn/shiwens/default.aspx?astr=%e5%88%98%e7%a6%b9%e9%94%a1)，[592句名言](https://www.gushiwen.cn/mingjus/default.aspx?astr=%e5%88%98%e7%a6%b9%e9%94%a1)。
 
 原文
 -------
