@@ -40,7 +40,7 @@ tags:
 
 ![](https://picture.gptkong.com/20250109/2225871f724411497c9a30be512755f736.png)
 
-![](https://picture.gptkong.com/20250109/2235b61b269ca245f2814715d14cb75760.jpg)
+
 
 
 
@@ -65,11 +65,9 @@ tags:
 
 我想要住进那个人的话语里
 
+![](https://picture.gptkong.com/20250109/2235b61b269ca245f2814715d14cb75760.jpg)
 
 
-![](https://picture.gptkong.com/20250109/22467c5e71879145f591e7dacb126d6479.png)
-
-![](https://picture.gptkong.com/20250109/22474f436af2294242b81228c34ed7abbb.png)
 
 
 
