@@ -1,7 +1,4 @@
 source 'https://rubygems.org'
-gem 'jekyll-paginate'
 
-gem "jekyll", "~> 4.0"
-gem "rake"
-
-gem "webrick", "~> 1.7"
+gem 'jekyll', '~> 4.3.2'  # 尝试使用其他兼容版本
+gem 'jekyll-sass-converter', '~> 3.0.0'  # 尝试使用其他兼容版本
